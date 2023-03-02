@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xjmonody23.github.io</id>
+    <title>XJ_Monody23的网站</title>
+    <updated>2023-03-02T14:59:55.480Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xjmonody23.github.io"/>
+    <link rel="self" href="https://xjmonody23.github.io/atom.xml"/>
+    <subtitle>只是一个mc玩家自己创的网站</subtitle>
+    <logo>https://xjmonody23.github.io/images/avatar.png</logo>
+    <icon>https://xjmonody23.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, XJ_Monody23的网站</rights>
+    <entry>
+        <title type="html"><![CDATA[➡️ 如果你是我的同学请看这里 ⬅️]]></title>
+        <id>https://xjmonody23.github.io/post/classmates/</id>
+        <link href="https://xjmonody23.github.io/post/classmates/">
+        </link>
+        <updated>2023-03-02T14:03:25.000Z</updated>
+        <content type="html"><![CDATA[<p>如果你是我的同学，那么你应该就是通过我在qq或微信上发的网址进这个网站的吧（不是MCBBS）</p>
+<p>这里先简要介绍一下这个网站，本网站主要是转载我在MCBBS（一个我的世界论坛）上发布的帖子，或者是生活中遇到的一些事情，也或者是其他的一些东西</p>
+<p>首先，如果你看到以下字样：“转载至MCBBS”则说明这是我在MCBBS上发布的帖子，如果没有，那就是直接在网站上写的</p>
+<p>第二，这里的所有内容请勿当成作文来看，尤其是那些本来就是一个从MCBBS转载过来的闲聊帖，毕竟是闲聊，字数少不少就无所谓了</p>
+<p>第三，所有人都可以来投稿到这个网站里，我会单独分个类，然后把投稿内容直接放在这个分类之下，规则：<br>
+除了色情、低俗、人身攻击等不良稿件之外，其他的都可以投稿给我，但是由于这个网站已经公开在MCBBS，为了不让其他人知道你的真名，所以所有投稿人的姓名要么使用网名，要么直接佚名（在投稿人那里写个来自同学），可以线上也可以线下投稿</p>
+<p>最后，如果网站有不足之处，欢迎点出，谢谢合作</p>
+<p>联系方式请详见《欢迎来到我的网站！》一帖</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[闲聊] 上网课时的尴尬瞬间...]]></title>
+        <id>https://xjmonody23.github.io/post/xian-liao-shang-wang-ke-shi-de-gan-ga-shun-jian/</id>
+        <link href="https://xjmonody23.github.io/post/xian-liao-shang-wang-ke-shi-de-gan-ga-shun-jian/">
+        </link>
+        <updated>2023-02-26T13:36:34.000Z</updated>
+        <content type="html"><![CDATA[<p>我有一个编程课，每周日上午在网上上课，而我在上课的时候一般都会打开mc和其他游戏来玩玩<br>
+今天听说原来的老师有事，请了个代课老师，起初i dont care，后来才发现这老师挺严格的...每次写代码的时候都得全程共享屏幕，也就是说，在共享屏幕的过程中我是不能开其他窗口的，所以我决定写代码的时候赶快的写，然后取消共享继续玩我的（<br>
+但是计划露馅了，一次共享屏幕，把代码写完，程序测试完之后，竟然忘了关闭共享，最后被老师逮了个正着....<br>
+太tm尴尬了啊啊！！！<br>
+——————————————————————————————————————————<br>
+转自我的mcbbs帖子：《上网课时的尴尬瞬间...》<br>
+原帖地址：https://www.mcbbs.net/forum.php?mod=viewthread&amp;tid=1430214&amp;page=1#pid28144552</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2023-1-28] 如何与你的好朋友联机？]]></title>
+        <id>https://xjmonody23.github.io/post/2023-1-28-ru-he-yu-ni-de-hao-peng-you-lian-ji/</id>
+        <link href="https://xjmonody23.github.io/post/2023-1-28-ru-he-yu-ni-de-hao-peng-you-lian-ji/">
+        </link>
+        <updated>2023-02-22T18:10:02.000Z</updated>
+        <content type="html"><![CDATA[<p>注：本文章转载自我的一个帖子，原帖有图片，看起来应该更方便一点，所以如果有什么地方不懂可以去原帖看看，或者来问我，我也非常乐意去帮助你解决问题！原帖地址：https://www.mcbbs.net/thread-1422082-1-1.html</p>
+<p>相信大家应该都愿意与朋友联机，但是被很多因素所困扰（如延迟高，步骤麻烦等）</p>
+<p>今天，我将为大家带来低延迟、操作简易的联机教程！</p>
+<p>如果你和你的朋友均为正版：</p>
+<p>双方可以使用Essential联机mod来进行联机，且步骤简单，无需任何操作，步骤如下：</p>
+<p>1.将Essential Mod放在mod文件夹下（注：加载器版本必须对应，如Forge对应Forge，Fabric对应Fabric）下载地址：https://essential.gg/download</p>
+<p>2.启动游戏，mod会进行一个简短的更新</p>
+<p>3.进入主界面，如下图：</p>
+<p>在右侧先找到印着两个小人的图标，打开，会进入Social界面，在上方找到加号，最后点Add Friend</p>
+<p>4.输入你朋友的正版ID，将好友请求发送给朋友</p>
+<p>5.被发送好友请求的玩家前三步一致，但是进入Social界面后不要点加号，找到Friends，在Frinend Requests一栏中找到发送请求者的ID，最后点对号，至此，好友添加完毕</p>
+<p>6.最后让其中一人回到主界面，找到小地球图标，选择要联机的世界，配置好世界选项，邀请他人即可</p>
+<p>如果有其中一人或两个人都不是正版：</p>
+<p>注意：需要下载开服核心</p>
+<p>1.下载开服侠软件（找到官网下载精简版），解压到任意文件夹下</p>
+<p>2.找到点击开服.exe文件，打开，进入主界面</p>
+<p>3.此时程序会让你安装开服核心，由于所提供的版本较低，所以我们需要使用自己准备好的开服核心（如果只和好朋友联机，建议下载Vanilla核心），点击下方的自定义，找到你的开服核心，选中即可</p>
+<p>4.在上方一栏找到线路，但是想要开启互联网线路需要登录，所以我们必须注册账号才能打开互联网线路</p>
+<p>5.登录后会自动开启线路，找到接入线路，在显示出来的线路中随便添加一个，此时会出现公网ip</p>
+<p>6.回到控制台，找到右下角的齿轮键，选择启动，启动后可能会让你去修改EULA文件，找到开服核心所在的文件夹下，打开eula.txt文件，将false改为true，重新开服</p>
+<p>7.服务器成功运行后还需要配置server.properties文件，将online-mode改为false（在33行），再次重启服务器</p>
+<p>8.开服后回到游戏内选择多人游戏，添加服务器，将公网ip复制到服务器地址即可<br>
+最后享受与朋友联机的乐趣吧！！！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到我的网站！]]></title>
+        <id>https://xjmonody23.github.io/post/huan-ying-lai-dao-wo-de-wang-zhan/</id>
+        <link href="https://xjmonody23.github.io/post/huan-ying-lai-dao-wo-de-wang-zhan/">
+        </link>
+        <updated>2023-02-17T15:44:16.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到我的网站！</p>
+<p>网站介绍：<br>
+本网站由一名Minecraft玩家创建，在这里我会发布一些日常和在游戏里发生的趣事</p>
+<p>关于我：<br>
+本人一名初二学生，于2014年首次接触Minecraft PE，也在不久后开始玩Java版1.7.10，16年玩了人生中的第一局起床战争（怀念那个萌新互啄的时代....），20年拥有了Java正版，也在21年开了我的第一个小型生存服务器。总之，从新手一路走来，真的很不容易（（<br>
+本人最爱玩的Mod：维克的现代战争、等价交换、拔刀剑、Essential Mod（bushi<br>
+我也喜欢Python编程，但是基本是自学的，即使学校里开设了信息课（因为老师讲的速度实在是太慢了啊啊啊啊啊，都好几个月了，还在讲变量和字符类型）。我比较好说英语，在学校里总是拿英语给我同学开玩笑</p>
+<p>联系方式：<br>
+Minecraft Java：XJ_Monody23<br>
+Minecraft BE（Xbox ID）：xiaojie188<br>
+MCBBS：XJ188<br>
+QQ：2775224349（xiaojie1882017）<br>
+微信不公开<br>
+邮箱：xiaojie1882017@icloud.com（没错，你没看错，iCloud邮箱，我的163邮箱都在收验证码LOL）</p>
+]]></content>
+    </entry>
+</feed>

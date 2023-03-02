@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>欢迎来到我的网站！ | XJ_Monody23的网站</title>
+<meta name="description" content="只是一个mc玩家自己创的网站">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://xjmonody23.github.io/favicon.ico?v=1677769190580">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://xjmonody23.github.io/styles/main.css">
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://xjmonody23.github.io">
+        <img class="avatar" src="https://xjmonody23.github.io/images/avatar.png?v=1677769190580" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://xjmonody23.github.io">
+        <h1 class="site-title">XJ_Monody23的网站</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">欢迎来到我的网站！</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2023-02-17</span>
+            
+          </div>
+          <div class="post-content" v-pre>
+            <p>欢迎来到我的网站！</p>
+<p>网站介绍：<br>
+本网站由一名Minecraft玩家创建，在这里我会发布一些日常和在游戏里发生的趣事</p>
+<p>关于我：<br>
+本人一名初二学生，于2014年首次接触Minecraft PE，也在不久后开始玩Java版1.7.10，16年玩了人生中的第一局起床战争（怀念那个萌新互啄的时代....），20年拥有了Java正版，也在21年开了我的第一个小型生存服务器。总之，从新手一路走来，真的很不容易（（<br>
+本人最爱玩的Mod：维克的现代战争、等价交换、拔刀剑、Essential Mod（bushi<br>
+我也喜欢Python编程，但是基本是自学的，即使学校里开设了信息课（因为老师讲的速度实在是太慢了啊啊啊啊啊，都好几个月了，还在讲变量和字符类型）。我比较好说英语，在学校里总是拿英语给我同学开玩笑</p>
+<p>联系方式：<br>
+Minecraft Java：XJ_Monody23<br>
+Minecraft BE（Xbox ID）：xiaojie188<br>
+MCBBS：XJ188<br>
+QQ：2775224349（xiaojie1882017）<br>
+微信不公开<br>
+邮箱：xiaojie1882017@icloud.com（没错，你没看错，iCloud邮箱，我的163邮箱都在收验证码LOL）</p>
+
+          </div>
+        </div>
+
+        
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">只是一个mc玩家自己创的网站</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://xjmonody23.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+  </body>
+</html>

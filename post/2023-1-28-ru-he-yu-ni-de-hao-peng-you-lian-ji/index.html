@@ -1,0 +1,160 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>[2023-1-28] 如何与你的好朋友联机？ | XJ_Monody23的网站</title>
+<meta name="description" content="只是一个mc玩家自己创的网站">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://xjmonody23.github.io/favicon.ico?v=1677769190580">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://xjmonody23.github.io/styles/main.css">
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://xjmonody23.github.io">
+        <img class="avatar" src="https://xjmonody23.github.io/images/avatar.png?v=1677769190580" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://xjmonody23.github.io">
+        <h1 class="site-title">XJ_Monody23的网站</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">[2023-1-28] 如何与你的好朋友联机？</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2023-02-23</span>
+            
+          </div>
+          <div class="post-content" v-pre>
+            <p>注：本文章转载自我的一个帖子，原帖有图片，看起来应该更方便一点，所以如果有什么地方不懂可以去原帖看看，或者来问我，我也非常乐意去帮助你解决问题！原帖地址：https://www.mcbbs.net/thread-1422082-1-1.html</p>
+<p>相信大家应该都愿意与朋友联机，但是被很多因素所困扰（如延迟高，步骤麻烦等）</p>
+<p>今天，我将为大家带来低延迟、操作简易的联机教程！</p>
+<p>如果你和你的朋友均为正版：</p>
+<p>双方可以使用Essential联机mod来进行联机，且步骤简单，无需任何操作，步骤如下：</p>
+<p>1.将Essential Mod放在mod文件夹下（注：加载器版本必须对应，如Forge对应Forge，Fabric对应Fabric）下载地址：https://essential.gg/download</p>
+<p>2.启动游戏，mod会进行一个简短的更新</p>
+<p>3.进入主界面，如下图：</p>
+<p>在右侧先找到印着两个小人的图标，打开，会进入Social界面，在上方找到加号，最后点Add Friend</p>
+<p>4.输入你朋友的正版ID，将好友请求发送给朋友</p>
+<p>5.被发送好友请求的玩家前三步一致，但是进入Social界面后不要点加号，找到Friends，在Frinend Requests一栏中找到发送请求者的ID，最后点对号，至此，好友添加完毕</p>
+<p>6.最后让其中一人回到主界面，找到小地球图标，选择要联机的世界，配置好世界选项，邀请他人即可</p>
+<p>如果有其中一人或两个人都不是正版：</p>
+<p>注意：需要下载开服核心</p>
+<p>1.下载开服侠软件（找到官网下载精简版），解压到任意文件夹下</p>
+<p>2.找到点击开服.exe文件，打开，进入主界面</p>
+<p>3.此时程序会让你安装开服核心，由于所提供的版本较低，所以我们需要使用自己准备好的开服核心（如果只和好朋友联机，建议下载Vanilla核心），点击下方的自定义，找到你的开服核心，选中即可</p>
+<p>4.在上方一栏找到线路，但是想要开启互联网线路需要登录，所以我们必须注册账号才能打开互联网线路</p>
+<p>5.登录后会自动开启线路，找到接入线路，在显示出来的线路中随便添加一个，此时会出现公网ip</p>
+<p>6.回到控制台，找到右下角的齿轮键，选择启动，启动后可能会让你去修改EULA文件，找到开服核心所在的文件夹下，打开eula.txt文件，将false改为true，重新开服</p>
+<p>7.服务器成功运行后还需要配置server.properties文件，将online-mode改为false（在33行），再次重启服务器</p>
+<p>8.开服后回到游戏内选择多人游戏，添加服务器，将公网ip复制到服务器地址即可<br>
+最后享受与朋友联机的乐趣吧！！！</p>
+
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://xjmonody23.github.io/post/huan-ying-lai-dao-wo-de-wang-zhan/">
+              <h3 class="post-title">
+                下一篇：欢迎来到我的网站！
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">只是一个mc玩家自己创的网站</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://xjmonody23.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+  </body>
+</html>
